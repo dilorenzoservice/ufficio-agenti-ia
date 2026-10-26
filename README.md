@@ -11,6 +11,12 @@ Senza abbonamenti, senza mandare i tuoi file a nessuno.
 &nbsp;
 [![Ultima versione](https://img.shields.io/github/v/release/dilorenzoservice/ufficio-agenti-ia?style=for-the-badge&label=versione&color=F2B62E)](https://github.com/dilorenzoservice/ufficio-agenti-ia/releases/latest)
 
+<br>
+
+<img src="immagini/palazzo-giorno-sera.png" alt="Il palazzo di Ufficio Agenti IA di giorno e di sera: quattro piani con gli agenti alle scrivanie" width="860">
+
+<sub>Il palazzo dell'ufficio, di giorno e di sera: segue l'ora del tuo computer. Immagini della prossima versione.</sub>
+
 </div>
 
 > **English in short.** Ufficio Agenti IA is a free Windows app where a team of AI agents works together in a
@@ -35,6 +41,19 @@ tu li vedi muoversi tra le scrivanie in tempo reale. Prima di consegnare, il cap
 Ogni cliente ha la sua scheda (tono, cose da usare e da evitare, colori) e i suoi materiali: il team li usa
 come fonte e non inventa dati.
 
+## Come funziona
+
+1. **Scegli il cliente** e premi «Nuovo incarico». Scrivi (o detti) di cosa parla e che formato ti serve.
+2. **Il team si mette al lavoro.** Vedi gli agenti alzarsi, passarsi i fogli e scriversi in chat. In basso, «Il
+   percorso del lavoro» ti dice a che punto sono.
+3. **Il capo del piano rilegge tutto** e corregge solo errori veri, citando la frase sbagliata.
+4. **Ricevi la consegna**: il file finito, il testo da copiare e i pulsanti per cambiare quello che non ti piace.
+
+<p align="center">
+  <img src="immagini/ufficio-al-lavoro.png" alt="Il piano Social al lavoro: gli agenti si passano l'incarico, a destra la chat del team" width="860">
+  <br><sub>Il piano Social al lavoro su un post: a destra la chat del team, in basso il percorso del lavoro.</sub>
+</p>
+
 ## Perché è diverso
 
 - **Tutto in locale.** Il modello gira sul tuo computer con Ollama: i materiali dei clienti non vanno su nessun server.
@@ -47,15 +66,26 @@ come fonte e non inventa dati.
 
 ## In arrivo nella prossima versione
 
-La versione che scarichi oggi ha i quattro piani e tutto il piano Social rifinito. Nella prossima:
+La versione che scarichi oggi ha i quattro piani e tutto il piano Social rifinito. La prossima è quasi pronta
+(si sta facendo l'ultima revisione) e porta:
 
+- **Una grafica nuova, «Palazzo in regia».** All'apertura vedi il palazzo e cosa è successo mentre eri via: cosa
+  aspetta te, cosa è in corso, cosa è pronto. Ogni piano ha il suo ufficio, con il suo arredamento.
+- **Prima volta guidata.** L'app guarda il tuo computer, sceglie il modello giusto e installa da sola Ollama e Gemma.
+- **Memoria.** Il team ricorda le regole che confermi («mai emoji per questo cliente») e i fatti verificati di ogni
+  cliente. Le note si aprono anche in Obsidian.
+- **Lavori di notte.** «Fallo stanotte» mette l'incarico in coda: parte all'una e al mattino trovi tutto pronto.
 - **Siti per settore**: sette stili diversi che non si ripetono, anteprima da mandare a un potenziale cliente con
   scadenza e messaggi di primo contatto già scritti.
 - **Grafiche col marchio vero** in quattro misure (quadrata, verticale, orizzontale, storia), controllate da un agente
   che guarda le immagini.
 - **Video YouTube montati con HyperFrames**: immagini a tema scelte e controllate, voce narrante, effetti sonori con
   licenza libera, miniature, capitoli e Shorts. Se il montaggio si ferma, riparte da dove era.
-- Una grafica nuova per tutta l'app.
+
+<p align="center">
+  <img src="immagini/altri-piani.png" alt="Gli uffici dei piani Siti web, Materiali e YouTube" width="860">
+  <br><sub>Gli uffici dei piani Siti web, Materiali e YouTube nella nuova grafica.</sub>
+</p>
 
 ## Requisiti
 
