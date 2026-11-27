@@ -15,7 +15,7 @@ Senza abbonamenti, senza mandare i tuoi file a nessuno.
 
 <img src="immagini/palazzo-giorno-sera.png" alt="Il palazzo di Ufficio Agenti IA di giorno e di sera: quattro piani con gli agenti alle scrivanie" width="860">
 
-<sub>Il palazzo dell'ufficio, di giorno e di sera: segue l'ora del tuo computer. Immagini della prossima versione.</sub>
+<sub>Il palazzo dell'ufficio, di giorno e di sera: segue l'ora del tuo computer.</sub>
 
 </div>
 
@@ -64,14 +64,14 @@ come fonte e non inventa dati.
   (chiama, prenota, scrivi su WhatsApp), niente frasi fatte.
 - **Pronto da pubblicare.** Il risultato è un file finito (video, immagine, sito, pacchetto YouTube) nella cartella del cliente.
 
-## In arrivo nella prossima versione
+## Le novità della versione 0.11
 
-La versione che scarichi oggi ha i quattro piani e tutto il piano Social rifinito. La prossima è quasi pronta
-(si sta facendo l'ultima revisione) e porta:
+La versione 0.11, «Palazzo in regia», è uscita a fine novembre 2026 e porta:
 
-- **Una grafica nuova, «Palazzo in regia».** All'apertura vedi il palazzo e cosa è successo mentre eri via: cosa
+- **La grafica «Palazzo in regia».** All'apertura vedi il palazzo e cosa è successo mentre eri via: cosa
   aspetta te, cosa è in corso, cosa è pronto. Ogni piano ha il suo ufficio, con il suo arredamento.
 - **Prima volta guidata.** L'app guarda il tuo computer, sceglie il modello giusto e installa da sola Ollama e Gemma.
+  Poi, se Ollama è spento, lo accende lei quando la apri e lo spegne quando la chiudi.
 - **Memoria.** Il team ricorda le regole che confermi («mai emoji per questo cliente») e i fatti verificati di ogni
   cliente. Le note si aprono anche in Obsidian.
 - **Lavori di notte.** «Fallo stanotte» mette l'incarico in coda: parte all'una e al mattino trovi tutto pronto.
@@ -84,7 +84,7 @@ La versione che scarichi oggi ha i quattro piani e tutto il piano Social rifinit
 
 <p align="center">
   <img src="immagini/altri-piani.png" alt="Gli uffici dei piani Siti web, Materiali e YouTube" width="860">
-  <br><sub>Gli uffici dei piani Siti web, Materiali e YouTube nella nuova grafica.</sub>
+  <br><sub>Gli uffici dei piani Siti web, Materiali e YouTube.</sub>
 </p>
 
 ## Requisiti
@@ -128,7 +128,8 @@ e allega `Documenti\Ufficio Agenti IA\ufficio.log`.
 
 <div align="center">
 
-Fatto da **Ignazio Dilorenzo · [IgnisDilor](https://www.ignisdilor.it)**, con Claude.
+Fatto da **Ignazio Dilorenzo · [IgnisDilor](https://www.ignisdilor.it)**, con Claude. ·
+[La pagina dell'app su ignisdilor.it](https://www.ignisdilor.it/ufficio-agenti-ia/)
 
 *Non creo siti belli, creo sistemi che portano clienti.*
 
